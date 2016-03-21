@@ -14,6 +14,7 @@ import android.widget.EditText;
 
 public class MyEditText extends EditText {
     // testing git
+    //other commit
 
     public MyEditText(Context context) {
         super(context);
