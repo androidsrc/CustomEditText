@@ -13,6 +13,7 @@ import android.util.AttributeSet;
 import android.widget.EditText;
 
 public class MyEditText extends EditText {
+    // testing git
 
     public MyEditText(Context context) {
         super(context);
